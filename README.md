@@ -1,3 +1,2 @@
-- 👋 Hi, I’m rishi
-- 🌱 I’m currently learning Java
+- 🌱 learning Java
 - 📫 How to reach me rushikeshrawankar1999@gmail.com
